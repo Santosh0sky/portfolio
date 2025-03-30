@@ -43,7 +43,7 @@ export const sampleProjects: Project[] = [
   },
   {
     id: 5,
-    title: "ALmost Final Countdown",
+    title: "Almost Final Countdown",
     description:
       "A fun and interactive game where players guess how much time has elapsed.",
     technologies: ["React", "Node.js", "javaScript", "Vercel"],
