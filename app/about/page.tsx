@@ -10,7 +10,7 @@ export default function AboutPage() {
         <div className="flex flex-col md:flex-row gap-8 items-center">
           <div className="rounded-full overflow-hidden border-4 border-primary/20 w-48 h-48 shrink-0">
             <Image
-              src="/placeholder.svg?height=192&width=192"
+              src="/asset/pf1.JPG?height=192&width=192"
               alt="Profile picture"
               width={192}
               height={192}
@@ -22,12 +22,12 @@ export default function AboutPage() {
             <h1 className="text-3xl font-bold tracking-tighter">Santosh kumar Yadav</h1>
             <p className="text-xl text-gray-500">Front-End Developer</p>
             <div className="flex gap-4 justify-center md:justify-start">
-              <Button asChild>
+              {/* <Button asChild>
                 <Link href="/placeholder.svg" download="resume.pdf">
                   <Download className="mr-2 h-4 w-4" />
                   Download Resume
                 </Link>
-              </Button>
+              </Button> */}
               <Button variant="outline" asChild>
                 <Link href="#contact">
                   Contact Me
