@@ -5,7 +5,7 @@ export const sampleProjects: Project[] = [
     id: 1,
     title: "React Quiz App",
     description:
-      "Destination Picker App that helps users sort destinations based on their current location, with features to add or remove destinations for personalized trip planning.",
+      "A react App that allows useres to take quizzes on various react realted topics.",
     technologies: ["Next.js", "javaScript", "Tailwind CSS", "react","Vercel"],
     image: "/asset/ReactQuiz.png?height=340&width=600",
     githubUrl: "https://github.com/Santosh0sky/ReactQuiz",
@@ -15,7 +15,7 @@ export const sampleProjects: Project[] = [
     id: 2,
     title: "Destination Picker App",
     description:
-      "A app that sorts destinations based on location and allows users to add or remove destinations for personalized trip planning.",
+      "A Destination Picker App that helps users sort destinations based on their current location, with features to add or remove destinations for personalized trip planning.",
     technologies: ["javaScript","React", "Node.js", "Tailwind CSS", "Vercel"],
     image: "/asset/DestinationPicker.png?height=340&width=600",
     githubUrl: "https://github.com/Santosh0sky/destinationPicker",
@@ -25,7 +25,7 @@ export const sampleProjects: Project[] = [
     id: 3,
     title: "Online Shop Demo App",
     description:
-      "A project appears to focus on implementing basic online shopping functionalities. It includes features such as product listings, shopping cart management features.",
+      "A project demo online shopping with basic functionalities. It includes features such as product listings, shopping cart management features.",
     technologies: ["Next.js", "javaScript", "Tailwind CSS", "react", "Vercel"],
     image: "/asset/OnlineShop.png?height=340&width=600",
     githubUrl: "https://github.com/Santosh0sky/onlineShopDemo",
